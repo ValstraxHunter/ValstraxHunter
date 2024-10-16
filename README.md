@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValstraxHunter
 - 👀 I’m interested in hunting
-- 🌱 I’m currently learning HTML and Python
-- 💞️ I’m looking to collaborate on your mum
+- 🌱 I’m currently learning PHP and C#
+- 💞️ I’m looking to collaborate with your mum
 - 📫 How to reach me ...
 
 <!---
